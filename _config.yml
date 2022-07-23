@@ -23,7 +23,7 @@ email: kevin.patrzek@live.fr
 description: >- # this means to ignore newlines until "baseurl:"
   Un blog histoire de passer le temps.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://popovkov57.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: popovkov57
 github_username:  popovkov57
 

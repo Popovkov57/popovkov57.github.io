@@ -7,9 +7,9 @@ categories: jekyll update
 
 Cet article est le premier que je poste sur mon blog. Poster cet article me permet surtout de comprendre comment fonctionne Jekyll.
 
-Si ça vous souhaitez créer un blog Jekyll, je vous conseille d’aller voir [le site officiel Jekyll][jekyll-site]. Pour l’hébergement, j’ai opté pour solution gratuite et simple via [github page][github-page].
+Si vous souhaitez créer un blog Jekyll, je vous conseille d’aller voir [le site officiel Jekyll][jekyll-site]. Pour l’hébergement, j’ai opté pour une solution gratuite et simple via [github page][github-page].
 
-Ce n’est pas la première fois que je me dis qu’il faut je crée un blog et que je raconte ma vie. Cependant cette fois c’est la bonne je pense…
+Ce n’est pas la première fois que je me dis qu’il faut je crée un blog et que je raconte ma vie. Cependant cette fois c’est la bonne …
 
 Bonne continuation à vous tous ;-)
 

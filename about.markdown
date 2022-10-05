@@ -10,7 +10,7 @@ permalink: /about/
 ---
 
 <H4 style="margin-bottom: 0px;margin-top: 15px;"> Analyste / Développeur </h4>
-<h5 style="margin-bottom:0px;"> 08/2019 à Maintenant </h5>
+<h5 style="margin-bottom:0px;"> 08/2019 à 09/2022 </h5>
 <h5> Arcelor Mittal, Florange </h5>
 
 Développement de feature et maintenance sur une application intranet interconnectée permettant au commerciaux de créer, modifier et suivre des commandes de bobines d'acier.

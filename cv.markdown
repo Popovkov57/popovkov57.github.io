@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: CV
+permalink: /cv/
 ---
 
-<p style="margin-top:15px;">Passionné de nouvelles technologies et fort d’expérience dans différents domaines, j’aime développer des applications simple, intuitive et efficace.</p>
+<p style="margin-top:15px;">Passionné de nouvelle technologie et fort de plus de 5 ans d'expérience professionnelle (domaine bancaire, industrie, startup...) principalement en tant que développeur front-end sur des frameworks tel que Angular. J'ai pu être confronté à des problématiques très différentes dans des domaines tout aussi différents. Mon objectif principal est de développer des solutions agréables à utiliser.</p>
 
 # EXPERIENCES
 ---
@@ -89,4 +89,4 @@ Dans la cadre du projet SEPA DD à la BIL, participation au développement au se
 - `Front`:	Développement d'une Web App de type SPA avec le framework AngularJS. Utilisation de la librairie bootstrap 3 pour la partie style
 - `Back`:	Participation au développement d'une API de type REST avec le framework Spring 4. Exposition des données au format JSON. Participation au développement de BATCH avec le framework Spring BATCH. Participation au développement de procédure stockée en PL/SQL embarquant un maximum de logique métier afin d’améliorer la maintenance future. Utilisation des expressions CRON pour programmer le lancement des BATCH. Transformation de fichier XML avec XSL.
 
-*Outils: Maven, Npm, JBoss, Git, SVN, Jira, Nexus, Eclipse, Atom, SQL Developer*
+*Outils: AngularJS, Maven, Npm, JBoss, Git, SVN, Jira, Nexus, Eclipse, Atom, SQL Developer*

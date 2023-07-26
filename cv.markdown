@@ -90,3 +90,17 @@ Dans la cadre du projet SEPA DD à la BIL, participation au développement au se
 - `Back`:	Participation au développement d'une API de type REST avec le framework Spring 4. Exposition des données au format JSON. Participation au développement de BATCH avec le framework Spring BATCH. Participation au développement de procédure stockée en PL/SQL embarquant un maximum de logique métier afin d’améliorer la maintenance future. Utilisation des expressions CRON pour programmer le lancement des BATCH. Transformation de fichier XML avec XSL.
 
 *Outils: AngularJS, Maven, Npm, JBoss, Git, SVN, Jira, Nexus, Eclipse, Atom, SQL Developer*
+
+---
+
+<h4 style="margin-bottom: 0px;margin-top: 15px;"> Analyste / Développeur </h4>
+<h5 style="margin-bottom:0px;"> 12/2015 à 01/2016</h5>
+<h5> BIL, Luxembourg</h5>
+
+Dans le cadre du projet CODS, mise en place d’un layout générique en CSS sur une centaine de formulaire HTML, afin d’assurer la compatibilité de Chrome vers Internet Explorer 11.
+
+- Estimation de la charge de travail, mise en place d’un planning de livraison et respect de celui-ci.
+- Recherche d’une solution rapide et uniforme pour améliorer une solution déjà existante
+- Compréhension du besoin métier et rédaction de spécifications en rapport.
+
+*Outils : HTML5, CSS3, IE 11, Chrome*

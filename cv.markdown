@@ -9,6 +9,20 @@ permalink: /cv/
 # EXPERIENCES
 ---
 
+<H4 style="margin-bottom: 0px;margin-top: 15px;"> Développeur Freelance </h4>
+<h5 style="margin-bottom:0px;"> 09/2022 à maintenant </h5>
+<h5> PK Consulting, à distance </h5>
+
+Développement et maintenance de site pour différents clients.
+
+-	`Analyse`: Analyse des besoins des clients et mise en place de solution adéquate
+-	`UX/UI`: Conception de maquette UX afin de valider les projets avant de commencer le développement
+-	`Dev`: Conception, maintenance et hébergement des sites
+
+*Outils: Angular, React, Javascript, HTML, CSS, Git, Sketch, Github, VSCode, Microsoft Teams*
+
+---
+
 <H4 style="margin-bottom: 0px;margin-top: 15px;"> Analyste / Développeur </h4>
 <h5 style="margin-bottom:0px;"> 08/2019 à 09/2022 </h5>
 <h5> Arcelor Mittal, Florange </h5>
